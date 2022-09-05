@@ -25,6 +25,10 @@ li {
   list-style: none;
 }
 
+a {
+  text-align: center;
+}
+
 .weather-app {
   border: 1px solid rgba(18, 89, 122, 0.945);
   padding: 15px;
@@ -32,8 +36,6 @@ li {
   border-radius: 8px;
   max-width: 500px;
 }
-
-
 
 .clearfix {
   width: 150px;
@@ -59,16 +61,6 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
-
-/* #main-temp.col-6 {
-  width: 150px;
-  padding: 0;
-} */
-
-/* #main-conditions.col-6 {
-  width: 100px !important;
-  margin-right: -10px;
-} */
 
 #city-input {
   margin-left: 15px;
