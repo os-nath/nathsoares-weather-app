@@ -25,12 +25,16 @@ li {
   list-style: none;
 }
 
+.container {
+  padding: 20px;
+}
+
 .weather-app {
   border: 1px solid rgba(18, 89, 122, 0.945);
-  padding: 15px;
-  margin: 20px auto;
+  padding: 30px;
+  margin: 50px auto;
   border-radius: 8px;
-  max-width: 500px;
+  max-width: 550px;
 }
 
 .clearfix {
@@ -54,9 +58,9 @@ li {
   top: -34px;
 }
 
-.search-form {
+/* .search-form {
   margin-bottom: 20px;
-}
+} */
 
 .gitHubLink {
   text-align: center;
