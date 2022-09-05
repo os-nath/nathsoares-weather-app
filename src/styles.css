@@ -61,6 +61,12 @@ li {
 .gitHubLink {
   text-align: center;
   margin: 0 auto;
+  background: -webkit-linear-gradient(
+    rgb(245, 202, 10),
+    rgba(197, 46, 243, 0.897)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 #city-input {
